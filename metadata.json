@@ -1,0 +1,6 @@
+{
+  "name": "College Companion",
+  "description": "An all-in-one companion app for college students to track attendance, manage notes, calculate GPA, view placement drives, coordinate in real-time chat, and report lost & found items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
